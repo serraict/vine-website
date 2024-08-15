@@ -1,17 +1,39 @@
-# Welcome to MkDocs
+# Producten en Diensten
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Jouw kwekerij, jouw proces, jouw data, jouw software.
 
-## Commands
+## Serra Vine
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Serra Vine is een open source oplossing voor data verzameling, data visualisatie, samenwerking en kennisdeling.
+Breng de informatie naar de mensen en systemen die haar nodig hebben zodat iedereen door kan pakken zonder wachten en rework.
 
-## Project layout
+☝️ alle Serra Vine functies, voor altijd
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+💽 volledige broncode toegang, voor altijd
+
+🏕️ toegang tot het basiskamp met chat support, documentatie en online leermateriaal
+
+🔟 uur Serra Advies, Support en Ontwikkeling
+
+| Op jouw server 🏠   | In jouw cloud 😶‍🌫️   | In de cloud van Serra ⏳  |
+| --- | --- | --- |
+| €9.876, één keer  | €975/ mnd | €1975/ mnd |
+| [koop nu](mailto:marijn@serraict.com) | [koop nu](mailto:marijn@serraict.com)   | schrijf me in op de wachtlijst |
+
+## Advies, Support & Ontwikkeling
+
+Realiseer maatwerk- en integratieoplossingen op basis van Serra Vine - €109/ uur
+
+Realiseer data- en AI oplossingen op basis van Serra Vine - €109/ uur
+
+Management- en procesadvies - €139/ uur
+
+## Contact
+
+💁🏼‍♂️ Marijn van der Zee
+
+📧 <marijn@serraict.com>
+
+🤙 06-38741482
+
+
