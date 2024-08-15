@@ -3,3 +3,9 @@ site_url: https://vine.serraict.com
 theme:
   name: material
   language: nl
+  logo: "img/logo.png"
+  palette:
+    scheme: default
+    primary: custom
+extra_css:
+  - css/extra.css
