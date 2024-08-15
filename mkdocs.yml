@@ -3,7 +3,7 @@ site_url: https://vine.serraict.com
 theme:
   name: material
   language: nl
-  logo: "img/logo.png"
+  logo: "img/logo_serra.png"
   palette:
     scheme: default
     primary: custom
