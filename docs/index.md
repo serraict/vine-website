@@ -12,6 +12,8 @@ Wil jij weten welke uitdagingen wij met jouw collega-kwekers aan zijn gegaan?
 
 Serra Vine [Voor Kwekers](voor-kwekers.md)
 
+{!beschikbaarheid.md!}
+
 ## Voor ontwikkelaars met een uitdaging
 
 Serra Vine [Voor ontwikkelaars](voor-ontwikkelaars.md)

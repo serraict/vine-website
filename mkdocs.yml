@@ -16,3 +16,7 @@ nav:
   - "Over Serra":
       - "Contact": contact.md
       - "Producten en Diensten": producten-en-diensten.md
+markdown_extensions:
+  - markdown_include.include:
+      base_path: docs/includes
+  - admonition
