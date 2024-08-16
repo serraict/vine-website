@@ -9,3 +9,10 @@ theme:
     primary: custom
 extra_css:
   - css/extra.css
+nav:
+  - Home: index.md
+  - "Voor Kwekers": voor-kwekers.md
+  - "Voor Ontwikkelaars": voor-ontwikkelaars.md
+  - "Over Serra":
+      - "Contact": contact.md
+      - "Producten en Diensten": producten-en-diensten.md

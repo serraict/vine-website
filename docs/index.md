@@ -1,39 +1,17 @@
-# Producten en Diensten
+# Home
 
-Jouw kwekerij, jouw proces, jouw data, jouw software.
+## Voor kwekers met een uitdaging
 
-## Serra Vine
+Jouw kwekerij, jouw collega's, jouw proces, jouw data, jouw software.
 
-Serra Vine is een open source oplossing voor data verzameling, data visualisatie, samenwerking en kennisdeling.
-Breng de informatie naar de mensen en systemen die haar nodig hebben zodat iedereen door kan pakken zonder wachten en rework.
+Jouw uitdagingen.
 
-☝️ alle Serra Vine functies, voor altijd
+Wil jij collega's, proces, data en software verbinden om samen jouw uitdagingen aan te gaan?
 
-💽 volledige broncode toegang, voor altijd
+Wil jij weten welke uitdagingen wij met jouw collega-kwekers aan zijn gegaan?
 
-🏕️ toegang tot het basiskamp met chat support, documentatie en online leermateriaal
+Serra Vine [Voor Kwekers](voor-kwekers.md)
 
-🔟 uur Serra Advies, Support en Ontwikkeling
+## Voor ontwikkelaars met een uitdaging
 
-| Op jouw server 🏠   | In jouw cloud 😶‍🌫️   | In de cloud van Serra ⏳  |
-| --- | --- | --- |
-| €9.876, één keer  | €975/ mnd | €1975/ mnd |
-| [koop nu](mailto:marijn@serraict.com) | [koop nu](mailto:marijn@serraict.com)   | schrijf me in op de wachtlijst |
-
-## Advies, Support & Ontwikkeling
-
-Realiseer maatwerk- en integratieoplossingen op basis van Serra Vine - €109/ uur
-
-Realiseer data- en AI oplossingen op basis van Serra Vine - €109/ uur
-
-Management- en procesadvies - €139/ uur
-
-## Contact
-
-💁🏼‍♂️ Marijn van der Zee
-
-📧 <marijn@serraict.com>
-
-🤙 06-38741482
-
-
+Serra Vine [Voor ontwikkelaars](voor-ontwikkelaars.md)
